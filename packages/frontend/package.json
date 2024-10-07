@@ -17,7 +17,7 @@
 		"@types/react-redux": "7.1.33",
 		"@vitejs/plugin-react-swc": "3.7.0",
 		"typescript": "5.5.4",
-		"vite": "^5.4.3"
+		"vite": "^5.4.6"
 	},
 	"dependencies": {
 		"@reduxjs/toolkit": "2.2.7",
